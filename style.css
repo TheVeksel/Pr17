@@ -66,12 +66,14 @@ h1,h2,h3,h4,h5,h6{
     background-color: rgb(85, 34, 34);
     width:50%;
     padding: 15px;
+    text-align: center;
 }
 
 .link2 {
     background-color: rgb(18, 111, 27);
     width:50%;
     padding: 15px;
+    text-align: center;
 }
 
 .link2:hover {
